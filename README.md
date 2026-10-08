@@ -93,5 +93,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**N Varsha**
+GitHub: [Nvarsha23-N](https://github.com/your-username)
